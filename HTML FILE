@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+</head>
+
+<body>
+    <div class="main-container">
+        <h1 class="head">Nature Gallery</h1>
+        <div class="card-container">
+            <div class="image-container">
+                <img class="emg" src="https://assets.ccbp.in/frontend/intermediate-rwd/nature-gallery-1-img.png" />
+                <img class="emg" src="https://assets.ccbp.in/frontend/intermediate-rwd/nature-gallery-2-img.png" />
+                <img class="emg" src="https://assets.ccbp.in/frontend/intermediate-rwd/nature-gallery-3-img.png" />
+            </div>
+
+        </div>
+    </div>
+</body>
+
+</html>
